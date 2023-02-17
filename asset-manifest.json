@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edm/static/css/main.dc1980fb.css",
+    "main.js": "/edm/static/js/main.8f757ee1.js",
+    "static/js/787.b975c56e.chunk.js": "/edm/static/js/787.b975c56e.chunk.js",
+    "index.html": "/edm/index.html",
+    "main.dc1980fb.css.map": "/edm/static/css/main.dc1980fb.css.map",
+    "main.8f757ee1.js.map": "/edm/static/js/main.8f757ee1.js.map",
+    "787.b975c56e.chunk.js.map": "/edm/static/js/787.b975c56e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc1980fb.css",
+    "static/js/main.8f757ee1.js"
+  ]
+}
